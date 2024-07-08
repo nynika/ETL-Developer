@@ -1,0 +1,50 @@
+137000 libraries python
+
+<--------->ETL<-----------> Extract,Transform, Load
+
+etl data wherehouse project s3 bucket, AWS glue ETL tool, amazon redshift 	
+
+
+
+1. Fundamentals of Databases and SQL
+->SQL
+->Database Systems: MySQL, PostgreSQL,SQL Server.
+
+2. ETL Tools
+-> AWS Glue
+
+3. Programming Languages
+Python
+
+4. Big Data Technologies
+Apache Spark: For processing large datasets efficiently.
+
+
+5. Data Warehousing
+Tools: Familiarity with tools like Amazon Redshift
+
+6. Data Modeling
+Data Modeling Techniques: Proficiency in designing logical and physical data models.
+ER Diagrams: Creating and interpreting entity-relationship diagrams.
+
+7. Data Transformation and Cleaning
+Data Quality: Techniques for data cleansing, deduplication, and validation.
+Transformation Logic: Applying business rules to transform data from source to target.
+
+8. Cloud Services
+AWS
+
+11. Data Visualization and Reporting
+Tools: Basic knowledge of visualization tools like Tableau, Power BI, and Looker for creating reports and dashboards.
+
+12. Data Governance and Security
+Compliance: Understanding of data governance principles and data protection regulations (e.g., GDPR).
+Security: Best practices for securing data at rest and in transit.
+
+Suggested Learning Path:
+Start with SQL: Get comfortable with writing and optimizing queries.
+Learn ETL Tools: Choose a couple of ETL tools and get hands-on practice.
+Explore Big Data: Familiarize yourself with big data technologies if you plan to work with large datasets.
+Understand Data Warehousing: Learn data warehousing concepts and tools.
+Practice Programming: Enhance your programming skills, particularly in Python and Shell scripting.
+Study Cloud Platforms: Gain knowledge of cloud data services and how they integrate with ETL processes.
